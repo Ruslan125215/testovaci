@@ -17,4 +17,22 @@ nejaky text
 3. s
 4. peti
 5. odrazkami
-s
+# Olaf
+2
+ 
+3
+Olaf je můj oblíbený šampion z League of Legends.
+4
+ 
+5
+![Olaf](images/OIP.webp)
+6
+ 
+7
+## Odkazy
+8
+ 
+9
+[League of Legends](https://www.leagueoflegends.com/)
+10
+[Wiki Olaf](https://leagueoflegends.fandom.com/wiki/Olaf)
