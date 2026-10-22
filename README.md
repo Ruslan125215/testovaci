@@ -25,7 +25,7 @@ Olaf je můj oblíbený šampion z League of Legends.
 4
  
 5
-![Olaf](images/OIP.webp)
+![Olaf](OIP.webp)
 6
  
 7
