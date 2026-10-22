@@ -22,6 +22,7 @@ nejaky text
 Olaf je můj oblíbený šampion z League of Legends.
 
 ![Olaf](image/OIP.webp)
+![Olaf](image/OIP1.webp)
 
 ## Odkazy
 
